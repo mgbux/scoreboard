@@ -38,6 +38,8 @@ h1 {
 }
 
 .btns {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
     color: #9AABD8;
     background-color: #1B244A;
     border: 1px solid #9AABD8;

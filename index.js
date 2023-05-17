@@ -1,4 +1,4 @@
-// <---- Home Score ---->
+
 let homeScore = document.getElementById("home-score")
 let homeScoreValue = 0
 
@@ -17,7 +17,7 @@ function homeThree() {
     homeScore.textContent = homeScoreValue
 }
 
-// <---- Guest Score ---->
+
 let guestScore = document.getElementById("guest-score")
 let guestScoreValue = 0
 
@@ -36,7 +36,7 @@ function guestThree() {
     guestScore.textContent = guestScoreValue
 }
 
-// <---- Reset Scores ---->
+
 function resetScores() {
     homeScoreValue = 0
     homeScore.textContent = homeScoreValue
